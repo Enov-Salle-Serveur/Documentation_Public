@@ -1,0 +1,40 @@
+# Procédure : Configuration du VPN avec NetBird
+
+Ce guide vous explique comment vous connecter et configurer votre accès VPN via la plateforme **NetBird**.
+
+---
+
+## 📋 Prérequis
+Avant de commencer, assurez-vous de :
+* Avoir déjà créé et activé votre compte sur le site [enov.icu](https://enov.icu).
+* Disposer des droits d'administrateur sur votre machine pour installer le client VPN.
+
+---
+
+## 🛠️ Étapes de connexion et configuration
+
+### Étape 1 : Accéder au portail NetBird
+1. Ouvrez votre navigateur internet.
+2. Rendez-vous sur l'adresse suivante : [https://netbird.enov.vaultaire.fr:4443/](https://netbird.enov.vaultaire.fr:4443/)
+
+### Étape 2 : S'authentifier
+1. Sur la page d'accueil, cliquez sur le bouton **Sign in with Keycloak**.
+2. Vous allez être redirigé vers la page de connexion.
+3. Renseignez les **identifiants de votre compte** (adresse mail Ynov et mot de passe) que vous avez créés précédemment sur le site **enov.icu**.
+
+### Étape 3 : Installation selon votre Système d'Exploitation (OS)
+Une fois connecté au tableau de bord, la plateforme détectera votre système et vous proposera les étapes de configuration adaptées.
+
+#### 🪟 Exemple de configuration pour Windows
+Suivez les instructions affichées à l'écran pour télécharger et lier le client sur votre système.
+
+![Interface de configuration NetBird pour Windows](windows_setup.png)
+
+*(Note : Remplacez `windows_setup.png` par le nom ou le chemin réel de votre image dans votre dossier).*
+
+---
+
+## 🚀 Utilisation
+Une fois le client installé et lié :
+1. Lancez l'application **NetBird** sur votre ordinateur.
+2. Activez la connexion pour rejoindre le réseau privé sécurisé.
