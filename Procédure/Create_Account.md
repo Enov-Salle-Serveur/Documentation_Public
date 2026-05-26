@@ -25,6 +25,8 @@ Sur la page d'inscription, complétez le formulaire avec les informations suivan
 * **Filière :** Sélectionnez ou renseignez votre filière d'étude.
 * **Mot de passe :** Choisissez un mot de passe sécurisé et mémorisez-le.
 
+[enov.icu](./img/CreationDeCompteEnov.png)
+
 ### Étape 3 : Vérification de l'adresse email
 1. Après avoir validé le formulaire, consultez la boîte de réception de votre adresse mail Ynov.
 2. Vous allez recevoir un **code de vérification** par mail.
