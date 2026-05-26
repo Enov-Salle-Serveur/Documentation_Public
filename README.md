@@ -18,7 +18,10 @@ Pour démarrer sur la plateforme, veuillez suivre les guides dans l'ordre suivan
 2. 🔑 [Configuration du VPN NetBird](Procédure/SetupVPN.md)  
    *Étapes de connexion et d'installation du client VPN pour accéder au réseau privé.*
 
-3. 🖥️ [Création d'une Machine Virtuelle](Procédure/Create_VM.md)  
+3. 🔒 [Ajout d'une Clé SSH](Procédure/Nebula_Add_SSH_Key.md)  
+   *Étape obligatoire pour associer votre clé publique à votre compte avant de déployer des ressources.*
+
+4. 🖥️ [Création d'une Machine Virtuelle](Procédure/Create_VM.md)  
    *Procédure pas à pas pour déployer et configurer votre VM sur OpenNebula.*
 
 ---
