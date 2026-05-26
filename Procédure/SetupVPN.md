@@ -32,11 +32,11 @@ Suivez les instructions affichées à l'écran pour télécharger et lier le cli
 
 ![Interface de configuration NetBird pour Windows](./img/NetbirdSetupWindows.png)
 
-*(Note : Remplacez `windows_setup.png` par le nom ou le chemin réel de votre image dans votre dossier).*
-
 ---
 
 ## 🚀 Utilisation
 Une fois le client installé et lié :
 1. Lancez l'application **NetBird** sur votre ordinateur.
 2. Activez la connexion pour rejoindre le réseau privé sécurisé.
+
+
