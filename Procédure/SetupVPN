@@ -22,13 +22,15 @@ Avant de commencer, assurez-vous de :
 2. Vous allez être redirigé vers la page de connexion.
 3. Renseignez les **identifiants de votre compte** (adresse mail Ynov et mot de passe) que vous avez créés précédemment sur le site **enov.icu**.
 
+![netbirdhome](./img/Netbirdhomepage.png)
+
 ### Étape 3 : Installation selon votre Système d'Exploitation (OS)
 Une fois connecté au tableau de bord, la plateforme détectera votre système et vous proposera les étapes de configuration adaptées.
 
 #### 🪟 Exemple de configuration pour Windows
 Suivez les instructions affichées à l'écran pour télécharger et lier le client sur votre système.
 
-![Interface de configuration NetBird pour Windows](windows_setup.png)
+![Interface de configuration NetBird pour Windows](./img/NetbirdSetupWindows.png)
 
 *(Note : Remplacez `windows_setup.png` par le nom ou le chemin réel de votre image dans votre dossier).*
 
