@@ -13,7 +13,7 @@ Avant de commencer, assurez-vous d'être connecté au réseau requis (via le VPN
 
 ### Étape 1 : Connexion au portail Nebula
 1. Ouvrez votre navigateur web.
-2. Rendez-vous sur l'URL suivante : [http://nebula.enov.local:2616/](http://nebula.enov.local:2616/)
+2. Rendez-vous sur l'URL suivante : [http://nebula.enov.local:2616/](http://nebula.cloud.enov.local:2616)
 
 ![Page d'accueil Nebula](./img/Nebula_Homepage.png)
 
