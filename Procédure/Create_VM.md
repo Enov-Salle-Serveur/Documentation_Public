@@ -7,6 +7,10 @@ Ce guide vous explique pas à pas comment déployer une machine virtuelle (VM) e
 ## 📋 Prérequis
 Avant de commencer, assurez-vous d'être connecté au réseau requis (via le VPN NetBird si vous êtes à distance) afin de pouvoir résoudre le domaine local.
 
+⚠️ **PRÉLUDE OBLIGATOIRE :** Avant de pouvoir instancier et déployer votre machine virtuelle, **vous devez impérativement ajouter votre clé SSH publique** à votre profil. Sans cette configuration préalable, il vous sera impossible de vous connecter à distance et de prendre la main sur votre VM une fois celle-ci créée.
+
+[Ajouter une clé public](./Nebula_Add_SSH_Key.md)
+
 ---
 
 ## 🛠️ Étapes de création de la VM
