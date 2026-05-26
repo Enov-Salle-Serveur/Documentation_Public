@@ -39,5 +39,5 @@ Une fois le client installé et lié :
 1. Lancez l'application **NetBird** sur votre ordinateur.
 2. Activez la connexion pour rejoindre le réseau privé sécurisé.
 
-![Interface de configuration NetBird pour Windows](Procédure/img/NetbirdLogin.png)
+![Interface de configuration NetBird pour Windows](./img/NetbirdLogin.png)
 
