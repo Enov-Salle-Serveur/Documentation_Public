@@ -24,6 +24,8 @@ Pour démarrer sur la plateforme, veuillez suivre les guides dans l'ordre suivan
 4. 🖥️ [Création d'une Machine Virtuelle](Procédure/Create_VM.md)  
    *Procédure pas à pas pour déployer et configurer votre VM sur OpenNebula.*
 
+5. 💣​ [Création d'une Machine Windows](Procédure/VM-Windows.md) 
+
 ---
 
 ## 📈 Évolutions futures
