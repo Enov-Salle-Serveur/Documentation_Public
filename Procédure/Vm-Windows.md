@@ -18,8 +18,7 @@ Avant de démarrer la machine virtuelle, il est nécessaire de lui associer une 
 
 *Pensez à sauvegarder les modifications avant de démarrer la VM.*
 
-> **[INSERER CAPTURE D'ÉCRAN : Interface OpenNebula montrant les champs 'Emulated' et 'e1000' configurés]**
-
+![windowsAddNic](./img/nebula-WindowsAddNic.png)
 ---
 
 ## Étape 2 : Validation de la carte réseau sous Windows
