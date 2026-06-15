@@ -26,7 +26,17 @@ Pour démarrer sur la plateforme, veuillez suivre les guides dans l'ordre suivan
 
 5. 💣​ [Création d'une Machine Windows](Procédure/VM-Windows.md) 
 
----
+---  
 
+## 🌐 Configurations Spécifiques : Utilisation d'un LAN Personnel
+
+Si vous déployez des architectures avancées nécessitant l'isolation de vos machines via votre propre réseau privé virtuel, un dossier technique indépendant est à votre disposition :
+
+* 🔌 [Configuration des Interfaces et du MTU pour LAN Personnel](Procédures-LAN/Setup-interface-for-LAN.md)  
+  *Guide complet pour configurer le MTU à 1450 sur vos machines (Linux Ubuntu, Rocky, Windows) et vos pare-feux (PfSense, Fortigate), afin d'éviter les blocages de requêtes HTTP/HTTPS sur les réseaux encapsulés (VXLAN).*
+
+> ⚠️ **Attention :** Les documentations du dossier LAN Personnel s'appliquent uniquement si vous configurez un réseau privé dédié. Ne modifiez pas ces paramètres sur les réseaux publics et mutualisés standards d'Enov.
+
+---  
 ## 📈 Évolutions futures
 *De nouvelles procédures et documentations techniques seront ajoutées à ce dossier au fur et à mesure des évolutions de la plateforme Énov.*
