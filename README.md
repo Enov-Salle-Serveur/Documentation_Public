@@ -42,4 +42,4 @@ Si vous déployez des architectures avancées nécessitant l'isolation de vos ma
 *De nouvelles procédures et documentations techniques seront ajoutées à ce dossier au fur et à mesure des évolutions de la plateforme Énov.*
 
 
-*tester par lilian donc si pb vous etes con*
+*tester par RunMySkills donc si pb vous etes con*
