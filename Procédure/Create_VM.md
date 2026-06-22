@@ -61,5 +61,10 @@ Avant de commencer, assurez-vous d'être connecté au réseau requis (via le VPN
 ### Étape 6 : Finalisation
 1. Une fois toutes les informations renseignées, cliquez sur le bouton **Finish**.
 2. Cela va lancer la création de votre VM. Vous pourrez suivre son statut ("Running") dans l'onglet des instances.
-
+3. Pour se connecter sur une vm linux le compte par default est root.
+   ```sh
+   ssh root@IP
+   # ou si plusieur clé ssh sur votre machine
+   ssh -i /path/vers/la/clé/privée root@IP
+   ```
 ![Liste des VMs](./img/Nebula_VmsPage.png)
