@@ -13,7 +13,7 @@
 
 ### Etape 1 Bis :
 
-Generéer une clé ssh :
+Generér une clé ssh :
 ```sh
 ssh-keygen -t ed25519
 # for legacy system
