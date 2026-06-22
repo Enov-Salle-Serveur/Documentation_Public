@@ -51,7 +51,8 @@ Avant de commencer, assurez-vous d'être connecté au réseau requis (via le VPN
 ### Étape 5 : Configuration Réseau (Attach NIC)
 1. Toujours dans le formulaire de création, ouvrez les **Paramètres avancés**.
 2. Allez dans la section **Réseau** (ou *Network*), puis cliquez sur **Attach NIC**.
-3. Choisissez le **seul réseau disponible** qui vous est attribué.
+3. Cliquer sur suivant ou next.  
+4. Choisissez le **seul réseau disponible** qui vous est attribué.
 
 ![Attacher une carte réseau](./img/Nebula_AttachNic.png)
 
