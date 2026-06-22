@@ -11,6 +11,15 @@
 
 ![Accès aux paramètres du compte](./img/Nebula_AccountAccesSetting.png)
 
+### Etape 1 Bis :
+
+Generéer une clé ssh :
+```sh
+ssh-keygen -t ed25519
+# for legacy system
+ssh-keygen -t rsa -b 4096
+```
+
 ### Étape 2 : Ajouter la clé publique
 1. Dans l'onglet de configuration de votre profil, recherchez la section dédiée aux clés SSH.
 2. Cliquez sur le bouton permettant d'ajouter une nouvelle clé (**Add SSH Key**).
