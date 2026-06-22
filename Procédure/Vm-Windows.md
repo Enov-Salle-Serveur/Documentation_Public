@@ -24,9 +24,9 @@ Avant de démarrer la machine virtuelle, il est nécessaire de lui associer une 
 ## Étape 2 : Validation de la carte réseau sous Windows
 
 1. Démarrez la machine virtuelle depuis OpenNebula et ouvrez la console VNC.
-2. Connectez-vous à la session Windows avec les identifiants suivants :
+2. Connectez-vous à la session Windows :
    * **Utilisateur** : `Administrateur`
-   * **Mot de passe** : `Scoubidou1&`
+   * **Mot de passe** : `A definir a la premiere connection`
 
 > **[INSERER CAPTURE D'ÉCRAN : Écran de connexion Windows ou Bureau Windows ouvert]**
 
