@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous de :
 
 ### Étape 1 : Accéder au portail NetBird
 1. Ouvrez votre navigateur internet.
-2. Rendez-vous sur l'adresse suivante : [https://netbird.enov.vaultaire.fr:4443/](https://netbird.enov.vaultaire.fr:4443/)
+2. Rendez-vous sur l'adresse suivante : [https://netbird.enov.vaultaire.fr:4443/](https://netbird.enov.icu:4443/)
 
 ### Étape 2 : S'authentifier
 1. Sur la page d'accueil, cliquez sur le bouton **Sign in with Keycloak**.
