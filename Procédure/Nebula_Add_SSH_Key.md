@@ -6,7 +6,7 @@
 
 ### Étape 1 : Accéder aux paramètres du compte
 1.Rendez-vous sur l'URL suivante : [http://nebula.cloud.enov.local:2616](http://nebula.cloud.enov.local:2616)  
-si ca marche pas essaye [http://192.168.101.10:2616](http://192.168.101.10:2616) 
+si ca marche pas essaye [http://192.168.101.10:2616](http://192.168.101.10:2616).  
 2. Une fois connecté sur le portail Nebula, cliquez sur votre nom d'utilisateur ou l'icône de profil en haut à droite.   
 3. Dans le menu déroulant, sélectionnez **Settings** (Paramètres du compte).
 
